@@ -26,4 +26,4 @@ def sort_by_min(data):
 print("Diurutkan dari yang terbesar: ",sort_by_max(real_number_random))
 print("Diurutkan dari yang terkecil: ",sort_by_min(real_number_random))
 
-##
+#---- --Merge Sort-------#
