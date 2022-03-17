@@ -27,3 +27,7 @@ print("Diurutkan dari yang terbesar: ",sort_by_max(real_number_random))
 print("Diurutkan dari yang terkecil: ",sort_by_min(real_number_random))
 
 #---- --Merge Sort-------#
+def merge_sort(data):
+    sort_min = data.copy()
+    
+    return sort_min
